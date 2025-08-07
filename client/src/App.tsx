@@ -1,4 +1,3 @@
-import React from 'react';
 import KanbanBoard from './pages/KanbanBoard';
 import { Toaster } from 'react-hot-toast';
 

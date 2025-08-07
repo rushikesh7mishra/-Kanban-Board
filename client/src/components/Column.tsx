@@ -1,4 +1,3 @@
-import React from 'react';
 import { useDroppable } from '@dnd-kit/core';
 import TaskCard from './TaskCard';
 import type { Task } from '../types/Task';
