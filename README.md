@@ -4,7 +4,6 @@ A modern, full-stack Kanban task board built with **React + TypeScript**, **Vite
 
 ## 📁 Project Structure
 
-```
 kanban-app/
 ├── client/            # Frontend with Vite + React + Tailwind CSS
 │   ├── src/
@@ -27,7 +26,6 @@ kanban-app/
 │   ├── .env
 │   └── tsconfig.json
 └── .github/workflows/ci.yml
-```
 
 ## 🧪 Features
 
@@ -52,36 +50,28 @@ kanban-app/
 
 ### 1. Clone and Setup
 
-```bash
-git clone https://github.com/your-username/kanban-app.git
+git clone https://github.com/rushikesh7mishra/-Kanban-Board.git
 cd kanban-app
-```
 
 ### 2. Frontend
 
-```bash
 cd client
 npm install
 cp .env.example .env  # or manually create .env and add VITE_API_URL
 npm run dev
-```
 
 ### 3. Backend
 
-```bash
 cd server
 npm install
 cp .env.example .env  # add PORT and CORS settings
 npm run dev
-```
 
 ## 🧪 Run Tests
 
-```bash
 cd client
 npm run test
-```
 
 ## 🔍 API Docs
 
-Visit: `http://localhost:5050/api-docs` (Swagger UI)
+Visit: `https://kanban-board-qk50.onrender.com/api-docs/` (Swagger UI)
