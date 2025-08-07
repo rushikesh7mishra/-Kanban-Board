@@ -4,6 +4,7 @@ A modern, full-stack Kanban task board built with **React + TypeScript**, **Vite
 
 ## 📁 Project Structure
 
+```
 kanban-app/
 ├── client/            # Frontend with Vite + React + Tailwind CSS
 │   ├── src/
@@ -26,7 +27,7 @@ kanban-app/
 │   ├── .env
 │   └── tsconfig.json
 └── .github/workflows/ci.yml
-
+```
 ## 🧪 Features
 
 - ✅ Add, edit, delete, and drag & drop tasks across columns
